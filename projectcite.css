@@ -1,0 +1,83 @@
+body{
+	background:#7aa61b;
+	margin:0;
+}
+.recomend a{
+display:block;
+margin:5px;
+text-decoration:none;
+color:gray;
+}
+.recomend{
+	background-color:#58800f;
+	width:350px;
+	padding:15px;
+	border-bottom-right-radius:20px;
+	border-top-right-radius:20px;
+}
+.recomend a:hover{
+	color:#94db12;
+}
+.links a{
+	text-decoration:none;
+	background:;
+	color:;
+	margin:5px;
+	display:block;
+	padding:15px;
+}
+.links{
+	background-color:#58800f;
+	width:700px;
+	margin-left:75%;
+	border-top-left-radius:5px;
+	border-bottom-left-radius:5px;
+	
+}
+.about{
+	margin:20px auto;
+	width:60%;
+	background-color:#58800f;
+	border-radius:7px;
+	padding:5px;
+	text-align:center;
+	background:;
+}
+.links a:hover{
+	color:#71a611;
+}
+.banner{
+width:83%;
+}
+.logo{
+width:16%;
+}
+.img{
+	background:#30332d;
+}
+.game{
+width:30%;
+display:inline-block;
+vertical-align:middle;
+}
+.gameosu{
+
+}
+.game img{
+width:100%;
+}
+.games{
+text-align:center;
+margin:-15px;
+}
+.games a{
+display:inline-block;
+color:#04ff00;
+background:#4b664a;
+text-decoration:none;
+padding:10px 20px;
+border-radius:10px;
+}
+.games a:hover{
+	color:yellow;
+}
